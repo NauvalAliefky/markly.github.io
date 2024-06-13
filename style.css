@@ -4,7 +4,6 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
-    overflow-x: hidden;
 }
 
 header {
@@ -532,6 +531,6 @@ li a:hover {
         height: 150vh;
     }
     .logo{
-        margin-top: 250px;
+        margin-top: 200px;
     }
 }
