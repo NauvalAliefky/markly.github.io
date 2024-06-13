@@ -4,6 +4,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
+    max-width: 100vw;
 }
 
 header {
@@ -479,6 +480,7 @@ li a:hover {
     }
     .container-image-blog{
         flex-direction: column;
+        align-items: center;
     }
     .container-img-blog{
         margin: -80px;
@@ -503,7 +505,7 @@ li a:hover {
         background-position: center 79%;
         background-attachment: fixed;
         margin-top: 200px;
-        align-items: center;
+         align-items: center;
     }
     .text{
         font-size: 14px;
